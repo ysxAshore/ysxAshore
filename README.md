@@ -34,7 +34,7 @@
 <!-- About me 关于我 -->
 ### 😊About Me
 
-<p>&emsp;&emsp;大家好，我是ysxAshore，就读于HITWH。</p>
+<p>&emsp;&emsp;大家好，我是杨舒翔，本科毕业于哈工大（威海），目前在中国科学技术大学读研。</p>
 <p>&emsp;&emsp;喜爱编程、摄影、读书、旅行。</p>
 <p>&emsp;&emsp;目前热衷于计算机体系结构方面尤其是处理器设计的研究；同时也在Python、Android等领域有一定的开发经验</p>
 <p>&emsp;&emsp;代码永远不会说谎，而代码注释有时会</p>
